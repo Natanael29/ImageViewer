@@ -1,4 +1,4 @@
-package model;
+package imageviewer.model;
 
 public class Image {
     private final String name;
@@ -10,5 +10,4 @@ public class Image {
     public String getName() {
         return name;
     }
-    
 }
