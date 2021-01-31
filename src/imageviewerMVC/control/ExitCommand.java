@@ -1,4 +1,4 @@
-package imageviewer.control;
+package imageviewerMVC.control;
 
 public class ExitCommand implements Command {
     @Override

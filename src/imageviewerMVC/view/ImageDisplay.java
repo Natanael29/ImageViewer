@@ -1,6 +1,6 @@
-package imageviewer.view;
+package imageviewerMVC.view;
 
-import imageviewer.model.Image;
+import imageviewerMVC.model.Image;
 
 public interface ImageDisplay {
     void display(Image image);

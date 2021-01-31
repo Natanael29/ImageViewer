@@ -1,4 +1,4 @@
-package imageviewer.model;
+package imageviewerMVP.model;
 
 public class Image {
     private final String name;

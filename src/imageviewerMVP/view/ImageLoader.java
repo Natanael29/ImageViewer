@@ -1,7 +1,7 @@
-package imageviewer.view;
+package imageviewerMVP.view;
 
+import imageviewerMVP.model.Image;
 import java.util.List;
-import imageviewer.model.Image;
 
 public interface ImageLoader {
     List<Image> load();

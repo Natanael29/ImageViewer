@@ -1,4 +1,4 @@
-package imageviewer.control;
+package imageviewerMVC.control;
 
 public interface Command {
     public void execute();

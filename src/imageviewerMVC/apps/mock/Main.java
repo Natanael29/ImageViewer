@@ -1,10 +1,10 @@
-package imageviewer.apps.mock;
+package imageviewerMVC.apps.mock;
 
-import imageviewer.control.Command;
-import imageviewer.control.InitCommand;
-import imageviewer.model.Image;
-import imageviewer.view.ImageDisplay;
-import imageviewer.view.ImageLoader;
+import imageviewerMVC.control.Command;
+import imageviewerMVC.control.InitCommand;
+import imageviewerMVC.model.Image;
+import imageviewerMVC.view.ImageDisplay;
+import imageviewerMVC.view.ImageLoader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;

@@ -1,7 +1,7 @@
-package imageviewer.control;
+package imageviewerMVC.control;
 
-import imageviewer.model.Image;
-import imageviewer.view.ImageDisplay;
+import imageviewerMVC.model.Image;
+import imageviewerMVC.view.ImageDisplay;
 import java.util.List;
 
 public class NextImageCommand implements Command {
